@@ -1,38 +1,21 @@
-# Hago software que los negocios usan todos los días.
+<img src="assets/banner.svg" width="100%" alt="Samuel Ariza. Hago software que los negocios usan todos los días. Bogotá, Colombia.">
+<img src="assets/cifras.svg" width="100%" alt="6.995 commits desde marzo de 2026, 365 migraciones de base de datos, 3.496 archivos de prueba y 8 proyectos propios.">
 
-**Samuel Ariza** · Bogotá, Colombia · [Beecores](https://beecores.com)
+<img src="assets/h-construido.svg" width="100%" alt="Lo que he construido">
+<a href="https://modari.app"><img src="assets/p-modari.svg" width="100%" alt="Modari, el más grande: plataforma SaaS multiempresa con CRM, WhatsApp, campañas, flujos automáticos, sitios web e IA. 2.738 commits en seis meses. modari.app"></a>
+<a href="https://tallerdelmaestro.com.co"><img src="assets/p-taller.svg" width="100%" alt="El Taller del Maestro: sistema de producción de un taller con pedidos, inventario, cartera y finanzas. tallerdelmaestro.com.co"></a>
+<a href="https://sanaa.com.co"><img src="assets/p-sanaa.svg" width="100%" alt="Sanaa: software clínico con agenda, historias, consentimientos y cotizador. sanaa.com.co"></a>
+<a href="https://bunker7.com.co"><img src="assets/p-bunker7.svg" width="100%" alt="Bunker7: sitio, portal de clientes y rastreo GPS con avisos por Telegram. bunker7.com.co"></a>
+<a href="https://iphoneshopbogota.com"><img src="assets/p-iphoneshop.svg" width="100%" alt="iPhone Shop Bogotá: tienda en línea con pagos, inventario y blog automático. iphoneshopbogota.com"></a>
+<a href="https://modelari.com.co"><img src="assets/p-modelari.svg" width="100%" alt="Modelari: tienda de figuras 3D personalizadas, con editor 3D en el navegador y checkout. modelari.com.co"></a>
+<a href="https://beecores.com"><img src="assets/p-beecores.svg" width="100%" alt="Beecores, mi estudio: sitio con portafolio, demos y SEO, en español e inglés. beecores.com"></a>
+<a href="https://dataplusmerchantservices.com"><img src="assets/p-dataplus.svg" width="100%" alt="Data Plus: sitio bilingüe de procesamiento de pagos para comercios en EE. UU. dataplusmerchantservices.com"></a>
 
-Mis repositorios son privados porque son productos de clientes y míos. Aquí está lo que he construido y dónde verlo funcionando.
+<img src="assets/actividad.svg" width="100%" alt="Actividad: calendario isométrico de mis contribuciones del último año.">
 
-| 6.995 | 365 | 3.496 | 8 |
-|---|---|---|---|
-| commits desde marzo de 2026 | migraciones de base de datos | archivos de prueba | proyectos propios |
+<img src="assets/trabajo.svg" width="100%" alt="Cómo trabajo. Lenguajes: TypeScript, SQL, Python, JavaScript y CSS. Sigo los estándares de la industria, cada cambio pasa por pruebas automáticas, acceso por roles y datos separados por empresa, sitios rápidos, monitoreo, respaldos y actualizaciones continuas.">
 
-## Lo que he construido
-
-| Proyecto | Qué es |
-|---|---|
-| [Modari](https://modari.app) · el más grande | Plataforma SaaS multiempresa: CRM, WhatsApp, campañas, flujos automáticos, sitios web e IA. 2.738 commits en seis meses. |
-| [El Taller del Maestro](https://tallerdelmaestro.com.co) | Sistema de producción de un taller: pedidos, inventario, cartera y finanzas. |
-| [Sanaa](https://sanaa.com.co) | Software clínico: agenda, historias, consentimientos y cotizador. |
-| [Bunker7](https://bunker7.com.co) | Sitio, portal de clientes y rastreo GPS con avisos por Telegram. |
-| [iPhone Shop Bogotá](https://iphoneshopbogota.com) | Tienda en línea con pagos, inventario y blog automático. |
-| Modelari | Tienda de figuras 3D personalizadas, con editor 3D en el navegador y checkout. |
-| [Beecores](https://beecores.com) | Mi estudio: sitio con portafolio, demos y SEO, en español e inglés. |
-| Data Plus | Sitio bilingüe (EN/ES) de procesamiento de pagos para comercios en EE. UU. |
-
-Más demos en el [portafolio de Beecores](https://beecores.com).
-
-## Cómo trabajo
-
-- **Estándares:** sigo los estándares de la industria en cada etapa, del diseño al mantenimiento.
-- **Pruebas:** cada cambio pasa por pruebas automáticas antes de llegar a producción.
-- **Seguridad:** acceso por roles, datos separados por empresa y revisiones periódicas.
-- **Rendimiento:** sitios rápidos, legibles y que funcionan igual de bien en el celular.
-- **Operación:** monitoreo, respaldos y actualizaciones continuas.
-
-Lenguajes: TypeScript, SQL, Python, JavaScript y CSS.
-
-## Contacto
-
-[samylitoc@gmail.com](mailto:samylitoc@gmail.com) · [WhatsApp](https://wa.me/573150676795)
+<img src="assets/h-contacto.svg" width="100%" alt="Contacto">
+<a href="mailto:samylitoc@gmail.com"><img src="assets/b-correo.svg" width="32%" alt="Escribir a samylitoc@gmail.com"></a>
+<a href="https://wa.me/573150676795"><img src="assets/b-whatsapp.svg" width="32%" alt="Escribir por WhatsApp"></a>
+<a href="https://beecores.com"><img src="assets/b-portafolio.svg" width="32%" alt="Portafolio y demos de Beecores"></a>
