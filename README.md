@@ -1,8 +1,8 @@
 <img src="assets/banner.svg" width="100%" alt="Samuel Ariza. Hago software que los negocios usan todos los días. Bogotá, Colombia.">
-<img src="assets/cifras.svg" width="100%" alt="6.995 commits desde marzo de 2026, 365 migraciones de base de datos, 3.496 archivos de prueba y 8 proyectos propios.">
+<img src="assets/cifras.svg" width="100%" alt="7.757 commits desde octubre de 2025, 366 migraciones de base de datos, 3.473 archivos de prueba y 8 proyectos propios.">
 
 <img src="assets/h-construido.svg" width="100%" alt="Lo que he construido">
-<a href="https://modari.app"><img src="assets/p-modari.svg" width="100%" alt="Modari, el más grande: plataforma SaaS multiempresa con CRM, WhatsApp, campañas, flujos automáticos, sitios web e IA. 2.738 commits en seis meses. modari.app"></a>
+<a href="https://modari.app"><img src="assets/p-modari.svg" width="100%" alt="Modari, el más grande: plataforma SaaS multiempresa con CRM, WhatsApp, campañas, flujos automáticos, sitios web e IA. 2.745 commits en seis meses. modari.app"></a>
 <a href="https://tallerdelmaestro.com.co"><img src="assets/p-taller.svg" width="100%" alt="El Taller del Maestro: sistema de producción de un taller con pedidos, inventario, cartera y finanzas. tallerdelmaestro.com.co"></a>
 <a href="https://sanaa.com.co"><img src="assets/p-sanaa.svg" width="100%" alt="Sanaa: software clínico con agenda, historias, consentimientos y cotizador. sanaa.com.co"></a>
 <a href="https://bunker7.com.co"><img src="assets/p-bunker7.svg" width="100%" alt="Bunker7: sitio, portal de clientes y rastreo GPS con avisos por Telegram. bunker7.com.co"></a>
